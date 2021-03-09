@@ -5,6 +5,7 @@ to compile it edit `Makefile` or `make.bat` and set your path to GBDK, then run 
 
 # TO DO:
 -points counter
+
 -increasing difficulty
 -music
 -some bugfixes
