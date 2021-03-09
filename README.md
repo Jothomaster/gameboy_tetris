@@ -7,7 +7,11 @@ to compile it edit `Makefile` or `make.bat` and set your path to GBDK, then run 
 -points counter
 
 -increasing difficulty
+
 -music
+
 -some bugfixes
+
 -make code more readable
+
 -comments in code :)
